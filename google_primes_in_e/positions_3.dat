@@ -1,0 +1,22 @@
+seeking digit 0 at level 3 from offset 0
+0123456789 <- position
+||||||||||
+1001000027 - digit 1 at pos 3 starts at line 48155, file pos: 529716
+        char: 1001000027
+1002000001 - digit 2 at pos 3 starts at line 96417, file pos: 1060598
+        char: 1002000001
+1003000001 - digit 3 at pos 3 starts at line 144615, file pos: 1590776
+        char: 1003000001
+1004000003 - digit 4 at pos 3 starts at line 192878, file pos: 2121669
+        char: 1004000003
+1005000047 - digit 5 at pos 3 starts at line 241148, file pos: 2652639
+        char: 1005000047
+1006000001 - digit 6 at pos 3 starts at line 289591, file pos: 3185512
+        char: 1006000001
+1007000009 - digit 7 at pos 3 starts at line 337667, file pos: 3714348
+        char: 1007000009
+1008000013 - digit 8 at pos 3 starts at line 385991, file pos: 4245912
+        char: 1008000013
+1009000009 - digit 9 at pos 3 starts at line 434130, file pos: 4775441
+        char: 1009000009
+

@@ -1,0 +1,43 @@
+seeking digit 0 at level 2 from offset 0
+0123456789 <- position
+||||||||||
+1010000011 - digit 1 at pos 2 starts at line 482449, file pos: 5306950
+        char: 1010000011
+1020000011 - digit 2 at pos 2 starts at line 964787, file pos: 10612668
+        char: 1020000011
+1030000001 - digit 3 at pos 2 starts at line 1446784, file pos: 15914635
+        char: 1030000001
+1040000011 - digit 4 at pos 2 starts at line 1928678, file pos: 21215469
+        char: 1040000011
+1050000011 - digit 5 at pos 2 starts at line 2409816, file pos: 26507987
+        char: 1050000011
+1060000037 - digit 6 at pos 2 starts at line 2891023, file pos: 31801264
+        char: 1060000037
+1070000011 - digit 7 at pos 2 starts at line 3372456, file pos: 37097027
+        char: 1070000011
+1080000007 - digit 8 at pos 2 starts at line 3853101, file pos: 42384122
+        char: 1080000007
+1090000001 - digit 9 at pos 2 starts at line 4334254, file pos: 47676805
+        char: 1090000001
+seeking digit 0 at level 2 from offset 0
+0123456789 <- position
+||||||||||
+1010000011 - digit 1 at pos 2 starts at line 482449, file pos: 5306950
+        char: 1010000011
+1020000011 - digit 2 at pos 2 starts at line 964787, file pos: 10612668
+        char: 1020000011
+1030000001 - digit 3 at pos 2 starts at line 1446784, file pos: 15914635
+        char: 1030000001
+1040000011 - digit 4 at pos 2 starts at line 1928678, file pos: 21215469
+        char: 1040000011
+1050000011 - digit 5 at pos 2 starts at line 2409816, file pos: 26507987
+        char: 1050000011
+1060000037 - digit 6 at pos 2 starts at line 2891023, file pos: 31801264
+        char: 1060000037
+1070000011 - digit 7 at pos 2 starts at line 3372456, file pos: 37097027
+        char: 1070000011
+1080000007 - digit 8 at pos 2 starts at line 3853101, file pos: 42384122
+        char: 1080000007
+1090000001 - digit 9 at pos 2 starts at line 4334254, file pos: 47676805
+        char: 1090000001
+

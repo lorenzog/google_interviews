@@ -1,0 +1,23 @@
+ [119] k@batou:~/Data/Dev/c/e 1$ ./locateGroups primes10 
+0123456789 <- position
+
+
+1000000007 - digit 1 at pos 0 starts at line 1, file pos: 11
+        char: 1000000007
+2000000011 - digit 2 at pos 0 starts at line 47374754, file pos: 521122294
+        char: 2000000011
+2147483647 - digit 3 at pos 0 starts at line 93602004, file pos: 1029622044
+        char: 3000000019
+2147483647 - digit 4 at pos 0 starts at line 139114279, file pos: 1530257069
+        char: 4000000007
+2147483647 - digit 5 at pos 0 starts at line 184106690, file pos: 2025173590
+        char: 5000000029
+2147483647 - digit 6 at pos 0 starts at line 228697835, file pos: -1
+        char: 6000000001
+2147483647 - digit 7 at pos 0 starts at line 272956819, file pos: -1
+        char: 7000000001
+2147483647 - digit 8 at pos 0 starts at line 316936121, file pos: -1
+        char: 8000000011
+2147483647 - digit 9 at pos 0 starts at line 360675662, file pos: -1
+        char: 9000000001
+
